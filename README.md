@@ -66,3 +66,33 @@ Pandas
 - Continuously run until canceled. CTL + c to cancel
 - to call script 
 ``` python3 listener_worker.py```
+
+
+
+<img width="1483" alt="image" src="https://github.com/Ldooley32/streaming-07-final-project-/assets/140924268/2f2deabd-184a-4c7a-85a6-dd3c6e596a53">
+
+
+
+
+<img width="1209" alt="image" src="https://github.com/Ldooley32/streaming-07-final-project-/assets/140924268/fd70d280-1f29-4bfa-bda7-7bed5567dd83">
+
+
+
+
+
+<img width="1093" alt="image" src="https://github.com/Ldooley32/streaming-07-final-project-/assets/140924268/1f4dbf5d-6971-4ee8-8497-0d63c71d3c08">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
